@@ -1,10 +1,7 @@
-# Text To Video AI 🔥
+# Educational-Video-Creator 🔥
 
 Generate video from text using AI
 
-### Youtube Tutorial -> https://www.youtube.com/watch?v=AXo6VfRUgic
-
-### Medium tutorial -> https://medium.com/@anilmatcha/text-to-video-ai-how-to-create-videos-for-free-a-complete-guide-a25c91de50b8
 
 ### Demo Video
 
