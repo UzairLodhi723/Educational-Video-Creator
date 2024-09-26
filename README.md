@@ -5,7 +5,7 @@ Generate video from text using AI
 
 ### Demo Video
 
-https://github.com/user-attachments/assets/1e440ace-8560-4e12-850e-c532740711e7
+[https://github.com/user-attachments/assets/1e440ace-8560-4e12-850e-c532740711e7](https://github.com/UzairLodhi723/Educational-Video-Creator/blob/master/data.mp4)
 
 ### 🌟 Show Support
 
